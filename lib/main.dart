@@ -54,7 +54,7 @@ class _HomePageState extends State<HomePage> {
                         paymentItems: const [
                           PaymentItem(
                             label: 'Total',
-                            amount: '10.00',
+                            amount: '20.00',
                             status: PaymentItemStatus.final_price,
                           ),
                         ],
